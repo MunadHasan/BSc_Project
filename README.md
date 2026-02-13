@@ -45,6 +45,8 @@ This project evaluates:
 - Comparative performance against ECMWF and GFS models
 - Machine learning vs. physics-based approaches for regional precipitation prediction
 
+## Output
+Find the release to get the model outputs.
 
 ## Citation
 
